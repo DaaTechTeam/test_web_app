@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
     
-  #ONLINE STORAGE FOR FILES
+  #ONLINE STORAGE FOR FILES including 
   firebase_storage:
   # FOR ONLINE DATABSE
   cloud_firestore: 
